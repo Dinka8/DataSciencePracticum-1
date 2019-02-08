@@ -9,6 +9,7 @@ data file
 If you are using Python, the data file can be easily read by the read_hdf function in Pandas (https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_hdf.html). See the example code below.
 
 Contents:
+
 Assignment
 Generate a “report” as a single pdf format containing the following information that is readable by a lay person.
 
